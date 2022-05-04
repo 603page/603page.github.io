@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](https://raw.githubusercontent.com/603page/603page.github.io/main/image/ship.bmp)
 ```
-
+[Image](https://raw.githubusercontent.com/603page/603page.github.io/main/image/ship.bmp)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
